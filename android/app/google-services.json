@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172434418199",
+    "project_id": "phone-book-app-7f093",
+    "storage_bucket": "phone-book-app-7f093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172434418199:android:c0972f4269937baab38a52",
+        "android_client_info": {
+          "package_name": "com.example.phone_book_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6dDQsDOb1Qx4OCbHMcOlIdBeCJy8MzaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
