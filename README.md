@@ -1,16 +1,18 @@
-# phone_book_app
 
-A new Flutter project.
+# Phone Book App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![App Screenshot](https://github.com/salim-maula/Phone-Book/blob/main/assets/mockup/mockup.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This Flutter Phone Book App is designed to help users easily manage their contacts using Firebase Firestore as a backend for data storage and GetX for state management. It allows users to view, add, edit, and delete contacts with fields such as name, phone number, and email address. The app provides a clean and intuitive UI for a smooth user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## If you're interested, click the link below. 
+
+ - [Awesome UIUX design in Figma](https://www.figma.com/design/IOC0nUzxGGWv1i6oV8ixo9/Book-Phone?node-id=0-1&t=EZZ26N0taSwrgw69-1)
+ - [Demo App](https://youtu.be/HB7GhdT3aBI)
+ - [Download .apk](https://github.com/salim-maula/Phone-Book/blob/main/assets/apk/phonebook.apk)
+
