@@ -16,3 +16,14 @@ This Flutter Phone Book App is designed to help users easily manage their contac
  - [Demo App](https://youtu.be/HB7GhdT3aBI)
  - [Download .apk](https://github.com/salim-maula/Phone-Book/blob/main/assets/apk/phonebook.apk)
 
+
+## Environment Variables
+
+For Savety i have deleted my GoogleService API_KEY and you can add your own API_KEY in this file
+
+`macos/Runner/GoogleService-Info.plist`
+
+`lib/firebase_options`
+
+`android/app/google-services.json`
+
